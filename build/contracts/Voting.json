@@ -2617,12 +2617,12 @@
         }
       },
       "links": {},
-      "address": "0xffF5903d986eBbE4479750b7eb5664f0609c3227",
-      "transactionHash": "0xd7c8beb7c17c0559999e4d538909d12854f71fab03f6dccee34dfb33a630eb8e"
+      "address": "0xDcF790cFC4eED9623FE90d20847cCad5e53Fd24b",
+      "transactionHash": "0xd2b17a576cabb174b47dc219248fd4905ba754576325f467771d5b7aaf403aa8"
     }
   },
   "schemaVersion": "3.0.18",
-  "updatedAt": "2019-11-21T08:37:49.244Z",
+  "updatedAt": "2019-11-25T05:12:49.511Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
